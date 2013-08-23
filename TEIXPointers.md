@@ -59,7 +59,7 @@ Points are adjacent to element nodes or characters in text nodes. A Point repres
 * the point following a node, and if that node has a successor in document order, then it is the same as the point preceding that successor.
 
 
-A Sequence follows the definition in the XPath 2.0 Data Model, with one change:
+A Sequence follows the definition in the [XPath 2.0 Language recommendation](http://www.w3.org/TR/xpath20/#id-basics), with one change:
 
 \[Definition: A sequence is an ordered collection of zero or more items.\] 
 
