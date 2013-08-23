@@ -1,5 +1,5 @@
-*DRAFT* TEI XPointer Requirements and Notes
-===========================================
+*DRAFT* TEI XPointer Specification
+==================================
 (Hugh Cayless – philomousos@gmail.com)
 
 xpath
