@@ -1,7 +1,7 @@
 TEI_Pointers_Draft
 ==================
 
-Stable home for the TEI Pointers Draft specification, for which see <TEIXPointers.md>, the unstable version of which is on [Google Docs](https://docs.google.com/document/d/1JsMA-gOGrevyY-crzHGiC7eZ8XdV5H_wFTlUGzrf20w/edit#). Both versions are active, and you may comment on the Google Docs version, but this one has a commit history, and can support releases, etc.
+Stable home for the TEI Pointers Draft specification, for which see [TEIXPointers](https://github.com/hcayless/TEI_Pointers_Draft/blob/master/TEIXPointers.md), the unstable version of which is on [Google Docs](https://docs.google.com/document/d/1JsMA-gOGrevyY-crzHGiC7eZ8XdV5H_wFTlUGzrf20w/edit#). Both versions are active, and you may comment on the Google Docs version, but this one has a commit history, and can support releases, etc.
 
 See <http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SA.html#SATS> for the original specification. There is a demo implementation available at <https://github.com/hcayless/tei-xpointer.js> and a working demo at <http://tei.philomousos.com/>.
 
