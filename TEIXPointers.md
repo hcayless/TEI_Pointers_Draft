@@ -2,6 +2,8 @@
 ==================================
 (Hugh Cayless – philomousos@gmail.com)
 
+Comments are welcome on the [Google Doc](https://docs.google.com/document/d/1JsMA-gOGrevyY-crzHGiC7eZ8XdV5H_wFTlUGzrf20w/edit#) version.
+
 xpath
 -----
     Sequence xpath(XPATH)
