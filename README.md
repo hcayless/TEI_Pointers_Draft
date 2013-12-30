@@ -7,7 +7,7 @@ which is on [Google Docs](https://docs.google.com/document/d/1JsMA-gOGrevyY-crzH
 versions are active, and you may comment on the Google Docs version, but this one has a commit history, and can support 
 releases, etc.
 
-See <http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SA.html#SATS> for the original specification. There is a demo 
+See <http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SA.html#SATS> for the original specification. Draft revsions are available at <http://hcayless.github.io/TEI-Guidelines/Guidelines-web/en/html/SA.html#SATS>. There is a demo 
 implementation available at <https://github.com/hcayless/tei-xpointer.js> and a working demo at 
 <http://tei.philomousos.com/>.
 
